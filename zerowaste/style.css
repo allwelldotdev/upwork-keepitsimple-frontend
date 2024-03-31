@@ -141,3 +141,8 @@ section[data-v-80b5a46a][data-v-10db0bf9] h2[data-v-80b5a46a].header-section.Ã°Å
 #frhAIu.header {
   margin-bottom: unset !important;
 }
+
+/* featured categories */
+.featured-categories-carousel.w-block.w-background-light {
+  background-color: var(--bg-kish-beige) !important;
+}
