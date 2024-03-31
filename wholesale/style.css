@@ -1,0 +1,10 @@
+:root {
+  --bg-transparent-white: rgb(255, 255, 255);
+  --bg-transparent-white-60: rgba(255, 255, 255, .6);
+  --bg-kish-beige: #fefbfa;
+  --bg-secondary: #ffba96;
+  --logo-width: 175px;
+  --logo-width-sticky: 70px;
+  --border-radius-16: 16px;
+  --border-radius-8: 8px;
+}
