@@ -146,3 +146,8 @@ section[data-v-80b5a46a][data-v-10db0bf9] h2[data-v-80b5a46a].header-section.Ã°Å
 .featured-categories-carousel.w-block.w-background-light {
   background-color: var(--bg-kish-beige) !important;
 }
+
+/* DYK homepage */
+.feature-card[data-v-4d1ffe66]:before {
+  background-color: var(--bg-kish-beige) !important;
+}
